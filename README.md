@@ -1,4 +1,4 @@
 "Bluetooth not working on Linux Debian"
 
-How to fix no driver bluetooth on debian other linux deb distros
+if you want to know how to fix no driver bluetooth on debian distros read the instarustion file...
 
