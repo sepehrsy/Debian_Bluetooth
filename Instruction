@@ -2,15 +2,15 @@
 $ sudo echo 'deb http://httpredir.debian.org/debian/ testing main contrib non-free' >> /etc/apt/sources.list
 $ sudo echo 'deb_src http://httpredir.debian.org/debian/ testing main contrib non-free' >> /etc/apt/sources.list
 $ sudo apt-get update
---------------------------------------------------------
-2nd:
+----------------------------------------------------------------------------------------------------------------
+2nd
 $ sudo apt-get install firmware-atheros
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 3rd reboot the computer host
 $ sudo reboot
 --------------------------------------------------------
 finally you can see and pair your bluetooth device on bluetooth setting 
-
+----------------------------------------------------------------------------------------------------------------
 
 **if this method still not working for you, follow the the instruction down below**
 $ sudo apt install bluez
